@@ -5,6 +5,6 @@ These items are a one time per mission use. If you dont use them in the mission 
 
 Not compatible with other Mods.
 
-Week 17 update added:
-Jimk_Workshop_Items_Mod_V1_W17 _P.pak
+Week 18 update added:
+Jimk_Workshop_Items_Mod_V1_W18 _P.pak
 Added Explosive arrows To this mod so you dont have to try and combine them. The explosive arrows are Completely new custom Items so it wont effect the Workshop Mod. 
