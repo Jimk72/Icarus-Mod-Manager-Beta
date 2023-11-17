@@ -4,11 +4,11 @@
     {
       "name": "Icarus Mod Manager Beta",
       "author": "Jimk72",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "compatibility": "none",
       "description": "This is a beta version, for testing only!",
       "fileType": "zip",
-      "fileURL": "https://github.com/Jimk72/Icarus-Mod-Manager-Beta/raw/main/Icarus_Mod_Manager_2_0_0.zip",
+      "fileURL": "https://github.com/Jimk72/Icarus-Mod-Manager-Beta/raw/main/IcarusModManagerPATCH201.zip",
       "imageURL": ""
     }
   ]
