@@ -1,4 +1,8 @@
-# Icarus Mod Manager 2.0 Beta
+# Icarus Mod Manager 2.0 
+
+12/10/23 Ver 2.0.4
+Minor bug fix with UI
+Added sort to mods download page when clicking on column headers.
 
 11/7/23 Beta Ver 2.0.0
 
