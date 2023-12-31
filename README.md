@@ -1,6 +1,6 @@
 # Icarus Mod Manager 2.0 
 
-# 12/30/23 Ver 2.0.5
+12/30/23 Ver 2.0.5
 
 Added new Syntax Highlighter for the Editor page.
 
