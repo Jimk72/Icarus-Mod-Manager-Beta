@@ -1,5 +1,17 @@
 # Icarus Mod Manager 2.0 
 
+## 1/14/24 Ver 2.0.7
+
+-Added Minimize button.
+
+-Added Language.ini to allow uses to change the display text.
+
+-Added experimental post process functions for future functionality.
+
+## 1/5/24 Ver 2.0.6
+
+-QuickFix for Display issues
+
 ## 12/30/23 Ver 2.0.5
 
 -Added new Syntax Highlighter for the Editor page.
