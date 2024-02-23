@@ -4,7 +4,7 @@
 
 -Redid UI to allow new merge options.
 
-These new options are added after the mods are all merged. By doing this it effects the custom item mods also.
+These new options are added after the mods are all merged. By doing this it effects the custom item mods also. To use these options, just select the options you want to eneable before clicking Install All Listed Mods button.
 
 -Added reduce crafting cost %25 to merge options
 
@@ -16,7 +16,7 @@ This will reduce all crafting bench recipies by %50.
 
 -Added Creative mode to merge options
 
-This will reduce all crafting bench cost to 0.
+This will reduce all crafting bench costs to 0.
 
 -Added Speed Crafting to merge options
 
