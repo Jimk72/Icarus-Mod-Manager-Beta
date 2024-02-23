@@ -1,6 +1,6 @@
 # Icarus Mod Manager 2.1 
 
-## 1/14/24 Ver 2.1.0
+## 2/23/24 Ver 2.1.0
 
 -Redid UI to allow new merge options.
 
