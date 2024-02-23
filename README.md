@@ -1,3 +1,28 @@
+# Icarus Mod Manager 2.1 
+
+## 1/14/24 Ver 2.1.0
+
+-Redid UI to allow new merge options.
+
+Thes new options are added after the mods are all merged. By doing this it effects the custom item mods also.
+
+-Added reduce crafting cost %25 to merge options
+
+This will reduce all crafting bench recipies by %25.
+
+-Added reduce crafting cost %50 to merge options
+
+This will reduce all crafting bench recipies by %50.
+
+-Added Creative mode to merge options
+
+This will reduce all crafting bench cost to 0.
+
+-Added Speed Crafting to merge options
+
+This sets craft time to 1 for all items.
+
+
 # Icarus Mod Manager 2.0 
 
 ## 1/14/24 Ver 2.0.7
