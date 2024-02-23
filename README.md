@@ -4,7 +4,7 @@
 
 -Redid UI to allow new merge options.
 
-Thes new options are added after the mods are all merged. By doing this it effects the custom item mods also.
+These new options are added after the mods are all merged. By doing this it effects the custom item mods also.
 
 -Added reduce crafting cost %25 to merge options
 
