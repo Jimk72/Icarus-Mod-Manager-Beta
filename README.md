@@ -1,5 +1,9 @@
 # Icarus Mod Manager 2.1 
 
+## 5/29/24 Ver 2.1.5
+
+-Changed show message of invalid date to add line to log that mod contains invalid date.
+
 ## 5/27/24 Ver 2.1.4
 
 -Downloads section now returns you to same spot in list after downloading a mod.
