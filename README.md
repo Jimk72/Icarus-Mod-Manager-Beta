@@ -1,6 +1,6 @@
 # Icarus Mod Manager 2.1 
 
-## 6/16/24 Ver 2.1.7
+## 6/29/24 Ver 2.1.7
 
 -Improved the Merge efficiency.
 
