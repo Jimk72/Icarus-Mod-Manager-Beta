@@ -4,6 +4,8 @@
 
 -Improved the Merge efficiency.
 
+-Background changes to clean up code.
+
 -Added option in settings to hide Log updates when merging mods.
 
 -Added progress bar for merging mods so you can see how far along it is.
