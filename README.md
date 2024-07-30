@@ -1,4 +1,18 @@
+This GitHub is for updating the Mod Manager from within the program and files should not be manualy downloaded from here as they dont contain all the needed files. If you are trying to download the Mod Manager please got to my other GitHub that has the full zip file download for Icarus Mod Manager!
+
 # Icarus Mod Manager 2.1 
+
+## 7/30/24 Ver 2.1.9
+
+-Fixed several small bugs.
+
+-Redid the whole unpak function to be more reliable with extremely large pak files.
+
+-Several new features for modders in the edit mod screen.
+
+-Changed the outdated mods date system to be compatible with other locals.
+
+-Several backend changes for the new features coming out in 2.2.0 :)
 
 ## 6/30/24 Ver 2.1.8
 
