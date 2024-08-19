@@ -2,6 +2,18 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.2 
 
+## 8/18/24 Ver 2.2.2
+
+-Fixed skinning issues with a few UI items.
+
+-Fixed the ui font not changin in all areas.
+
+## 8/16/24 Ver 2.2.1
+
+-Enabled the skin editor form by right clicking on main form or inside the mod editor screen.
+
+-Made all pages skinable
+
 ## 8/15/24 Ver 2.2.0
 
 -Fixed rename mod issues.
