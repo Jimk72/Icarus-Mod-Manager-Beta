@@ -1,6 +1,13 @@
 This GitHub is for updating the Mod Manager from within the program and files should not be manualy downloaded from here as they dont contain all the needed files. If you are trying to download the Mod Manager please got to my other GitHub(https://github.com/Jimk72/Icarus_Software) that has the full zip file download for Icarus Mod Manager!
 
-# Icarus Mod Manager 2.2 
+# Icarus Mod Manager 2.2
+
+## 12/11/24 Ver 2.2.7
+
+-Removed several notifications for weekly updates as requested.
+
+-Added several new functions for future features.
+
 
 ## 12/11/24 Ver 2.2.6
 
