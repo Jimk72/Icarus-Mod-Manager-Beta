@@ -2,6 +2,10 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.2
 
+## 5/12/25 Ver 2.2.9
+
+-Bug fix for Date Error.
+
 ## 5/4/25 Ver 2.2.8
 
 -Added the ability to have custom names for mods in your Extracted Mods list. Right click in the section and select Create Mods Language File. This will Create a file in IMMs app folder called LanguageMods.ini. Open this file and you can add custom names to the right hand side of the lines.
