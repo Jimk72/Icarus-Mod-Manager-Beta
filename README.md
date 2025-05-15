@@ -1,5 +1,11 @@
 This GitHub is for updating the Mod Manager from within the program and files should not be manualy downloaded from here as they dont contain all the needed files. If you are trying to download the Mod Manager please got to my other GitHub(https://github.com/Jimk72/Icarus_Software) that has the full zip file download for Icarus Mod Manager!
 
+# Icarus Mod Manager 2.3
+
+## 5/14/25 Ver 2.3.0
+
+-Fix merge issues with only selecting Speed Crafting.
+
 # Icarus Mod Manager 2.2
 
 ## 5/12/25 Ver 2.2.9
