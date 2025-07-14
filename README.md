@@ -2,6 +2,12 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 7/14/25 Ver 2.3.1
+
+-Rebuilt database update system to allow for more than 300 mods.
+
+-Added the ability to remember IMMs location on your screen.
+
 ## 5/14/25 Ver 2.3.0
 
 -Fix merge issues with only selecting Speed Crafting.
