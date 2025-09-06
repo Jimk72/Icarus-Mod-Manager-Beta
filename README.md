@@ -2,6 +2,14 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 9/6/25 Ver 2.3.2
+-Added fix for D_ProcessorRecipes.json changes
+
+-Added sorting system for Name values if JSON files.
+
+-Added several background functions to quickly create mods.
+
+
 ## 7/14/25 Ver 2.3.1
 
 -Rebuilt database update system to allow for more than 300 mods.
