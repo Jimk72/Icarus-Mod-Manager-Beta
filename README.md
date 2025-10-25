@@ -2,6 +2,13 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 10/25/25 Ver 2.3.3
+-Added Show notes option to editor 1, This will display a form that saves personal notes for editing mods.
+
+-Added Remove selected items from list for the Selection list in the Original JSON form.
+
+-polished background functions to quickly create mods.
+
 ## 9/6/25 Ver 2.3.2
 -Added fix for D_ProcessorRecipes.json changes
 
