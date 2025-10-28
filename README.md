@@ -2,6 +2,14 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 10/27/25 Ver 2.3.4
+-Fixed bug when using Refresh Local Files it would only download the first 301 mods.
+
+-All PAK mods when downloaded from the online database will use the modinfo.json from the author to create the mods folder name. 
+
+-Changed the display info to check for any file called readme if readme.txt file is not avail in the mods folder.
+
+
 ## 10/25/25 Ver 2.3.3
 -Added Show notes option to editor 1, This will display a form that saves personal notes for editing mods.
 
