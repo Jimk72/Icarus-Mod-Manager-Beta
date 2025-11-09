@@ -2,6 +2,9 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 11/9/25 Ver 2.3.5
+-Added special mod file considerations for laanp and ShadowWolf2099 filename issues. Mod name and folder will no longer use pak filename.
+
 ## 10/27/25 Ver 2.3.4
 -Fixed bug when using Refresh Local Files it would only download the first 301 mods.
 
