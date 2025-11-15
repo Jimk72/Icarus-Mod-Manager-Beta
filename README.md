@@ -2,6 +2,16 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 11/15/25 Ver 2.3.6
+-Added to Full release.
+
+-Several changes to help prevent Exception Errors.
+
+-Added Mod Json Viewer to the Edit Mods Tab.
+
+-Database now should go back to filtered mode after downloading a mod.
+
+
 ## 11/9/25 Ver 2.3.5
 -Added special mod file considerations for laanp and ShadowWolf2099 filename issues. Mod name and folder will no longer use pak filename.
 
