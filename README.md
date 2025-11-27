@@ -11,8 +11,7 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 -Speed Boost
 
--Level 1:
-
+Level 1:
 * Base Movement Speed: 455 from 355,
 * Crouch Movement Speed Coefficient: 75 from 56,
 * Sprint Movement Speed Coefficient: 250 from 200,
