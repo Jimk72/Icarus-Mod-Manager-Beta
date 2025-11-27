@@ -10,7 +10,6 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 -Unlimited Ammo: All weapons do not use ammo(Must have atleast 1 in inventory to load into Weapon)
 
 -Speed Boost
-
 Level 1:
 Base Movement Speed: 455 from 355,
 Crouch Movement Speed Coefficient: 75 from 56,
