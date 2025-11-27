@@ -13,13 +13,13 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 -Level 1:
 
-1. Base Movement Speed: 455 from 355,
-2. Crouch Movement Speed Coefficient: 75 from 56,
-3. Sprint Movement Speed Coefficient: 250 from 200,
-4. Swim Movement Speed Coefficient: 55 from 45,
-5. Swim Sprint Movement Speed Coefficient: 175 from 150,
-6. Tamed Creature Movement Speed: +25%,
-7. Tamed Creature Maximum Stamina: +25%
+* Base Movement Speed: 455 from 355,
+* Crouch Movement Speed Coefficient: 75 from 56,
+* Sprint Movement Speed Coefficient: 250 from 200,
+* Swim Movement Speed Coefficient: 55 from 45,
+* Swim Sprint Movement Speed Coefficient: 175 from 150,
+* Tamed Creature Movement Speed: +25%,
+* Tamed Creature Maximum Stamina: +25%
 
 -Level 2:
 
