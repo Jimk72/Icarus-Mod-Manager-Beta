@@ -3,13 +3,13 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 # Icarus Mod Manager 2.3
 
 ## 11/27/25 Ver 2.3.7
-### Added New Merge options.
+### -Added New Merge options.
 
-### Remove Weight: All Items weight 0
+### -Remove Weight: All Items weight 0
 
-### Unlimited Ammo: All weapons do not use ammo(Must have atleast 1 in inventory to load into Weapon)
+### -Unlimited Ammo: All weapons do not use ammo(Must have atleast 1 in inventory to load into Weapon)
 
-### Speed Boost
+### -Speed Boost
 
 Level 1:
 * Base Movement Speed: 455 from 355,
@@ -29,7 +29,7 @@ Level 2:
 * Tamed Creature Movement Speed: +50%,
 * Tamed Creature Maximum Stamina: +50%
 
-### Player Boost
+### -Player Boost
 
 Level 1:
 * Maximum Health: 350 from 300,
@@ -74,13 +74,13 @@ Level 2:
 * Enable Automatic Wood Collection On Harvest
 * Enable Map Can See World Bosses
 
-### Stacks Level 1 and 2: Increases the stacking amounts of Items
+### -Stacks Level 1 and 2: Increases the stacking amounts of Items
 
-### Slots 2X and 4X: Increases the number of slots in Player/Items Inventories
+### -Slots 2X and 4X: Increases the number of slots in Player/Items Inventories
 
-### Disable Temps: Removes the temperatures from game.
+### -Disable Temps: Removes the temperatures from game.
 
-### XP Boost
+### -XP Boost
 * Level 1: Boosts XP by %500
 * Level 2: Boosts XP by %1000
 
