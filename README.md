@@ -10,7 +10,7 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 -Unlimited Ammo: All weapons do not use ammo(Must have atleast 1 in inventory to load into Weapon)
 
 -Speed Boost
-Level 1:
+-Level 1:
 Base Movement Speed: 455 from 355,
 Crouch Movement Speed Coefficient: 75 from 56,
 Sprint Movement Speed Coefficient: 250 from 200,
@@ -19,7 +19,7 @@ Swim Sprint Movement Speed Coefficient: 175 from 150,
 Tamed Creature Movement Speed: +25%,
 Tamed Creature Maximum Stamina: +25%
 
-Level 2:
+-Level 2:
 Base Movement Speed: 600 from 355,
 Crouch Movement Speed Coefficient: 90 from 56,
 Sprint Movement Speed Coefficient: 300 from 200,
@@ -30,7 +30,7 @@ Tamed Creature Maximum Stamina: +50%
 
 -Player Boost
 
-Level 1:
+-Level 1:
 Maximum Health: 350 from 300,
 Maximum Stamina: 250 from 200,
 Base Weight Capacity: 300 from 100,
@@ -50,7 +50,7 @@ Enable Highlight Large Animals When ADS,
 Enable Automatic Wood Collection On Harvest
 Enable Map Can See World Bosses
 
-Level 2:
+-Level 2:
 Maximum Health: 400 from 300,
 Maximum Stamina: 300 from 200,
 Oxygen Consumed Per Stamina Used: 2 from 4,
