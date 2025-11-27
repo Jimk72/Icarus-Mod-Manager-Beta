@@ -20,8 +20,7 @@ Level 1:
 * Tamed Creature Movement Speed: +25%,
 * Tamed Creature Maximum Stamina: +25%
 
--Level 2:
-
+Level 2:
 * Base Movement Speed: 600 from 355,
 * Crouch Movement Speed Coefficient: 90 from 56,
 * Sprint Movement Speed Coefficient: 300 from 200,
