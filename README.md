@@ -2,7 +2,7 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
-## 11/15/25 Ver 2.3.7
+## 11/27/25 Ver 2.3.7
 -Added New Merge options.
 
 -Remove Weight: All Items weight 0
