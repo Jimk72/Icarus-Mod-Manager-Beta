@@ -22,60 +22,58 @@ Level 1:
 
 -Level 2:
 
-Base Movement Speed: 600 from 355,
-Crouch Movement Speed Coefficient: 90 from 56,
-Sprint Movement Speed Coefficient: 300 from 200,
-Swim Movement Speed Coefficient: 70 from 45,
-Swim Sprint Movement Speed Coefficient: 200 from 150,
-Tamed Creature Movement Speed: +50%,
-Tamed Creature Maximum Stamina: +50%
+* Base Movement Speed: 600 from 355,
+* Crouch Movement Speed Coefficient: 90 from 56,
+* Sprint Movement Speed Coefficient: 300 from 200,
+* Swim Movement Speed Coefficient: 70 from 45,
+* Swim Sprint Movement Speed Coefficient: 200 from 150,
+* Tamed Creature Movement Speed: +50%,
+* Tamed Creature Maximum Stamina: +50%
 
 -Player Boost
 
--Level 1:
+Level 1:
+* Maximum Health: 350 from 300,
+* Maximum Stamina: 250 from 200,
+* Base Weight Capacity: 300 from 100,
+* Food Consumption Per Hour: 400 from 600,
+* Water Consumption Per Hour: 600 from 900,
+* Oxygen Consumption Per Hour: 200 from 480,
+* Health Regen Per Minute: 35 from 25,
+* Minimum Fall Damage Velocity: 11000,  (Removes Fall Damage)
+* Maximum Fall Damage Velocity: 22250,  (Removes Fall Damage)
+* Cold Resistance: 30 from 0,
+* Heat Resistance: 30 from 0,
+* Stamina Regen Per Minute: 3000 from 2400,
+* Collision Damage Resistance: 100 from 25,
+* Enable Highlight Small Animals When ADS,
+* Enable Highlight Medium Animals When ADS,
+* Enable Highlight Large Animals When ADS,
+* Enable Automatic Wood Collection On Harvest
+* Enable Map Can See World Bosses
 
-Maximum Health: 350 from 300,
-Maximum Stamina: 250 from 200,
-Base Weight Capacity: 300 from 100,
-Food Consumption Per Hour: 400 from 600,
-Water Consumption Per Hour: 600 from 900,
-Oxygen Consumption Per Hour: 200 from 480,
-Health Regen Per Minute: 35 from 25,
-Minimum Fall Damage Velocity: 11000,  (Removes Fall Damage)
-Maximum Fall Damage Velocity: 22250,  (Removes Fall Damage)
-Cold Resistance: 30 from 0,
-Heat Resistance: 30 from 0,
-Stamina Regen Per Minute: 3000 from 2400,
-Collision Damage Resistance: 100 from 25,
-Enable Highlight Small Animals When ADS,
-Enable Highlight Medium Animals When ADS,
-Enable Highlight Large Animals When ADS,
-Enable Automatic Wood Collection On Harvest
-Enable Map Can See World Bosses
-
--Level 2:
-
-Maximum Health: 400 from 300,
-Maximum Stamina: 300 from 200,
-Oxygen Consumed Per Stamina Used: 2 from 4,
-Base Weight Capacity: 500 from 100,
-Food Consumption Per Hour: 200 from 600,
-Water Consumption Per Hour: 300 from 900,
-Oxygen Consumption Per Hour: 100 from 480,
-Health Regen Per Minute: 50 from 25,
-Minimum Fall Damage Velocity: 11000,  (Removes Fall Damage)
-Maximum Fall Damage Velocity: 22250,  (Removes Fall Damage)
-Cold Resistance: 60 from 0,
-Heat Resistance: 60 from 0,
-Stamina Regen Per Minute: 3800 from 2400,
-Collision Damage Resistance: 100 from 25,
-Skinning Speed: 20 from 0,
-Enable Highlight Small Animals When ADS,
-Enable Highlight Medium Animals When ADS,
-Enable Highlight Large Animals When ADS,
-Base Animal Highlight Distance: 17500,
-Enable Automatic Wood Collection On Harvest
-Enable Map Can See World Bosses
+Level 2:
+* Maximum Health: 400 from 300,
+* Maximum Stamina: 300 from 200,
+* Oxygen Consumed Per Stamina Used: 2 from 4,
+* Base Weight Capacity: 500 from 100,
+* Food Consumption Per Hour: 200 from 600,
+* Water Consumption Per Hour: 300 from 900,
+* Oxygen Consumption Per Hour: 100 from 480,
+* Health Regen Per Minute: 50 from 25,
+* Minimum Fall Damage Velocity: 11000,  (Removes Fall Damage)
+* Maximum Fall Damage Velocity: 22250,  (Removes Fall Damage)
+* Cold Resistance: 60 from 0,
+* Heat Resistance: 60 from 0,
+* Stamina Regen Per Minute: 3800 from 2400,
+* Collision Damage Resistance: 100 from 25,
+* Skinning Speed: 20 from 0,
+* Enable Highlight Small Animals When ADS,
+* Enable Highlight Medium Animals When ADS,
+* Enable Highlight Large Animals When ADS,
+* Base Animal Highlight Distance: 17500,
+* Enable Automatic Wood Collection On Harvest
+* Enable Map Can See World Bosses
 
 -Stacks Level 1 and 2: Increases the stacking amounts of Items
 
@@ -84,10 +82,8 @@ Enable Map Can See World Bosses
 -Disable Temps: Removes the temperatures from game.
 
 -XP Boost
-
--Level 1: Boosts XP by %500
-
--Level 2: Boosts XP by %1000
+* Level 1: Boosts XP by %500
+* Level 2: Boosts XP by %1000
 
 
 ## 11/15/25 Ver 2.3.6
