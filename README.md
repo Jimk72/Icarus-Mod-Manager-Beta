@@ -2,6 +2,12 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.3
 
+## 11/29/25 Ver 2.3.8
+
+### -Fixed issues with some inventories having too many slots.
+
+### -Added Descriptions for Stacks and Slots mod so you can see what is changed.
+
 ## 11/27/25 Ver 2.3.7
 ### -Added New Merge options.
 
