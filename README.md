@@ -5,7 +5,7 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 ## 12/27/25 Ver 2.3.9
 
 ### -Changed the way Base_Stats in Stats\D_CharacterStartingStats.json is extracted and merged.
-	JSON in the "StatsGranted" section are now considered seperate values. This allows mods to add 1 stat or many stats and not effect unchanged stats or stats from other mods.
+JSON in the "StatsGranted" section are now considered seperate values. This allows mods to add 1 stat or many stats and not effect unchanged stats or stats from other mods.
 
 ### -Added Descriptions for the rest of the Merge options.
 
