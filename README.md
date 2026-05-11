@@ -3,6 +3,10 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 # Icarus Mod Manager 2.4
 
 
+## 5/11/26 Ver 2.4.6
+
+### -Fixed various bugs from updating backend code.
+
 ## 5/8/26 Ver 2.4.5
 
 ### -Fixed error when clicking on a mod in the Merge list that has been deleted.
