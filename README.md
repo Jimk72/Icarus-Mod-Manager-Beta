@@ -3,6 +3,16 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 # Icarus Mod Manager 2.4
 
 
+## 5/30/26 Ver 2.4.7
+
+### -Fixed UI for scaled Downloads Page.
+
+### -Fixed File view not working as it should.
+
+### -Updated Creative mode to remove QueryInputs from recipes.
+
+### -Fixed "Display Original with these Items hidden" menu option when editing a mod.
+
 ## 5/11/26 Ver 2.4.6
 
 ### -Fixed various bugs from updating backend code.
