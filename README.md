@@ -2,6 +2,21 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 # Icarus Mod Manager 2.4
 
+## 7/4/26 Ver 2.4.9
+
+### -Fixed Re-Extract mod not extracting any json.
+
+### -Added merge option for lists so you can create a standard(Minimun) list and then always merge that list with your current one.
+
+### -Added a Filter for searching the main mods list as there are so many mods out now is can be a pain scrolling down to find one.
+
+## 6/21/26 Ver 2.4.8
+
+### -Fixed Merge option(Free Repair) from removing "Destroyed_At_Zero": true Causing enemy turrets to never be destroyed.
+
+### -Added option(Load Merge list to filter mods) to right click menu on downloads page to Load a merge list and use that to filter the mods list.
+
+### -Added .umap to the file list for mods. 
 
 ## 5/30/26 Ver 2.4.7
 
