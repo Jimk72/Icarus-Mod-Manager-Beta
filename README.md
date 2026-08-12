@@ -1,6 +1,8 @@
 This GitHub is for updating the Mod Manager from within the program and files should not be manually downloaded from here as they don't contain all the needed files. If you are trying to download the Mod Manager please got to my other GitHub(https://github.com/Jimk72/Icarus_Software) that has the full zip file download for Icarus Mod Manager!
 
-## Icarus Mod Manager 2.5.0
+## Icarus Mod Manager 
+
+## 8/12/26 Ver 2.5.0
 
 ### -Fixed Unicode/UTF8 issues with display of special characters.
 
