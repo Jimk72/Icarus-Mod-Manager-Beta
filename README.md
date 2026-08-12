@@ -14,7 +14,7 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 ### -Added ability to edit save files, Currently disabled till I do more testing.
 
-### -Updated Creative mode to for QueryInputs from recipes that are quest related. Mainly the new exchange venders.
+### -Updated Creative mode to fix issues for QueryInputs from recipes that are quest related. Mainly the new exchange venders.
 
 ### -Several bug fixes.
 
