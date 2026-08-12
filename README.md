@@ -1,12 +1,31 @@
-This GitHub is for updating the Mod Manager from within the program and files should not be manualy downloaded from here as they dont contain all the needed files. If you are trying to download the Mod Manager please got to my other GitHub(https://github.com/Jimk72/Icarus_Software) that has the full zip file download for Icarus Mod Manager!
+This GitHub is for updating the Mod Manager from within the program and files should not be manually downloaded from here as they don't contain all the needed files. If you are trying to download the Mod Manager please got to my other GitHub(https://github.com/Jimk72/Icarus_Software) that has the full zip file download for Icarus Mod Manager!
 
-# Icarus Mod Manager 2.4
+## Icarus Mod Manager 2.5.0
+
+### -Fixed Unicode/UTF8 issues with display of special characters.
+
+### -Added new form to display what UnrealPak.exe is doing and to prevent IMM from the Windows "Program is unresponsive" display.
+
+### -Fixed and added new hints for buttons on the Download mods Form.
+
+### -UnrealPak now is called and used through IMM and no longer pops up separate black screen.
+
+### -Lots of backend changes to improve speed and minimize load times.
+
+### -Added ability to edit save files, Currently disabled till I do more testing.
+
+### -Updated Creative mode to for QueryInputs from recipes that are quest related. Mainly the new exchange venders.
+
+### -Several bug fixes.
+
+### -Normally I would do a full release for main versions but there was so much code changed that this will be a patch update only till I can confirm there are no major issues arise.
+
 
 ## 7/4/26 Ver 2.4.9
 
 ### -Fixed Re-Extract mod not extracting any json.
 
-### -Added merge option for lists so you can create a standard(Minimun) list and then always merge that list with your current one.
+### -Added merge option for lists so you can create a standard(Minimum) list and then always merge that list with your current one.
 
 ### -Added a Filter for searching the main mods list as there are so many mods out now is can be a pain scrolling down to find one.
 
