@@ -2,6 +2,10 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 ## Icarus Mod Manager 
 
+## 8/16/26 Ver 2.5.1
+
+### -Disabled fast startup as more testing is needed.
+
 ## 8/12/26 Ver 2.5.0
 
 ### -Fixed Unicode/UTF8 issues with display of special characters.
