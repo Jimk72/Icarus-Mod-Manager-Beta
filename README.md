@@ -2,6 +2,10 @@ This GitHub is for updating the Mod Manager from within the program and files sh
 
 ## Icarus Mod Manager 
 
+## 8/19/26 Ver 2.5.2
+
+### -Fixed Re-Pak Issue.
+
 ## 8/16/26 Ver 2.5.1
 
 ### -Disabled fast startup as more testing is needed.
